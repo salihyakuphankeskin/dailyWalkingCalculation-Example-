@@ -31,5 +31,6 @@ func main() {
 	endText := fmt.Sprintf("In %d days %d meters has been done.",totalExerciseDay, totalExercise)
 	fmt.Println("")
 	fmt.Println(endText)
+	fmt.Println("Change day.")
 
 }
